@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">subGithubUser</string>
+    <string name="searchbar_hint">Masukkan kata</string>
+    <string name="menu_1">Menu 1</string>
+    <string name="menu_2">Menu 2</string>
+    <string name="name">Name</string>
+    <string name="_28">28</string>
+    <string name="user_name">User Name</string>
+    <string name="repository">Repositories</string>
+    <string name="follower">Followers</string>
+    <string name="following">Following</string>
+    <string name="github_logo">Github Logo</string>
+    <string name="no_users_found">Sorry No Data Found</string>
+    <string name="favorite">Favorite</string>
+    <string name="tabLayout">Tab Layout</string>
+    <string name="setting">Setting</string>
+    <string name="shareButton">Share Button\n</string>
+    <string name="dummyPict">Dummy Picture\n</string>
+
+
+</resources>
